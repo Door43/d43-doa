@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[doa:home|Door43 (doa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-doa|d43-doa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-doa/archive/master.zip|d43-doa.zip]]
+
+**Recent Changes**
+{{changes>ns = doa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/doa|Ethnologue data]]
+
